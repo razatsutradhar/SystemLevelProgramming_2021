@@ -1,0 +1,26 @@
+#include <stdio.h>
+2
+3 int main() {
+4
+5 int letters;
+6 int words;
+7 char character;
+8
+9 printf("Enter a Sentence: ");
+
+2
+
+10
+11 while((character=getchar()) != \n){
+12 if(character != ' '){
+13 if(!space){
+14 words++;
+15 space=1;
+16 }
+17 letters++;
+18 }else
+19 space = 0;
+20 }
+21
+22 printf("Average word length : %.1f", letters/words);
+23
