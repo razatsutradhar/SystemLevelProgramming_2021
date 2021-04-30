@@ -1,0 +1,258 @@
+    1  man cat
+    2  cd ~
+    3  pwd
+    4  ls
+    5  mkdir csc3320
+    6  ls
+    7  cd csc3320
+    8  ls
+    9  pwd
+   10  mkdir lab2
+   11  ls
+   12  cd lab2
+   13  cat > myLab2.txt
+   14  cat -n myLab2.txt
+   15  cd ~
+   16  pwd
+   17  mkdir Lab2_P2
+   18  cd
+   19  ls
+   20  cd Lab2_P2/
+   21  cp /home/frondel1/public/RealEstate.csv
+   22  cp /home/frondel1/public/RealEstate.csv .
+   23  pwd
+   24  cd Lab2_P2/
+   25  cp /home/frondel1/public/RealEstate.csv .
+   26  ls
+   27  cd Lab2_P2/
+   28  cp /home/frondel1/public/RealEstate.csv .
+   29  cp /home/frondel1/public/RealEstate.csv
+   30  cp /home/frondel1/public/RealEstate.csv .
+   31  cp home/frondel1/public/RealEstate.csv .
+   32  cp /home/frondel1/public/RealEstate.csv .
+   33  cd /home/frondel1/public
+   34  cp /home/frondel1/Public/RealEstate.csv .
+   35  ls
+   36  cat RealEstate.csv
+   37  cat head RealEstate.csv
+   38  head RealEstate.csv
+   39  head -3 RealEstate.csv
+   40  c RealEstate.csv
+   41  wc RealEstate.csv
+   42  wc Residential RealEstate.csv
+   43  wc 'Residential' RealEstate.csv
+   44  wc -l RealEstate.csv
+   45  cat -l RealEstate.csv
+   46  cat RealEstate.csv | wc -l
+   47  pwd
+   48  mkdir pubic ~
+   49  mkdir Pubic ~
+   50  mkdir /home/rsutradhar1/public
+   51  cd home
+   52  cd /home
+   53  ls
+   54  cd rsutradhar1
+   55  ls
+   56  copy RealEstate.csv "/home/rsutradhar1/public/myRealEstate.csv
+
+"
+   57  copy RealEstate.csv "/home/rsutradhar1/public/myRealEstate.csv'
+   58  copy RealEstate.csv "/home/rsutradhar1/public/myRealEstate.csv"
+   59  cp RealEstate.csv "/home/rsutradhar1/public/myRealEstate.csv"
+   60  cd Lab2_P2/
+   61  ls
+   62  cp RealEstate.csv . "/home/rsutradhar1/public/myRealEstate.csv"
+   63  pwd
+   64  cp RealEstate.csv . "/home/rsutradhar1/public/myRealEstate.csv"
+   65  cp RealEstate.csv . "/home/rsutradhar1/public/myRealEstate/"
+   66  cp RealEstate.csv . "/home/rsutradhar1/public/"
+   67  cp RealEstate.csv "/home/rsutradhar1/public/"
+   68  rm home/rsutradhar1/public/RealEstate.csv
+   69  cd home/rsutradhar1/public
+   70  ls
+   71  rm RealEstate.csv
+   72  cd
+   73  ls
+   74  cd Lab2_P2/
+   75  cp RealEstate.csv "/home/rsutradhar1/public/myRealEstate.csv"
+   76  cp RealEstate.csv /home/rsutradhar1/public/myRealEstate.csv
+   77  copy RealEstate.csv /home/rsutradhar1/public/myRealEstate.csv
+   78  copy RealEstate.csv myRealEstate.csv
+   79  cp RealEstate.csv myRealEstate.csv
+   80  cp RealEstate.csv
+   81  cp RealEstate.csv home/rsutradhar1/public
+   82  ls
+   83  cd Public
+   84  ls
+   85  cd Public
+   86  ls
+   87  cd Pubic/
+   88  ls
+   89  cd
+   90  rm Pubic/
+   91  ls
+   92  cd Lab2_P2/
+   93  ls
+   94  rename pubic public
+   95  rename -h
+   96  ls
+   97  rename "pubic" "public"
+   98  rename(1)
+   99  rename
+  100  cd pubic/
+  101  ls
+  102  cd
+  103  rm public/
+  104  rm home/rsutradhar1/pubic
+  105  rm home/rsutradhar1/Lab2_P2/pubic
+  106  rm "home/rsutradhar1/Lab2_P2/pubic"
+  107  ls
+  108  pwd
+  109  cd /home/rsutradhar1
+  110  ls
+  111  cd Lab2_P2/
+  112  ls
+  113  cd Pubic/
+  114  ls
+  115  cd
+  116  cd public/
+  117  ls
+  118  pwd
+  119  cd
+  120  ls
+  121  cd Lab2_P2/
+  122  ls
+  123  cd pubic/
+  124  ls
+  125  cd
+  126  ls
+  127  cd Lab2_P2/
+  128  ls
+  129  cd Pubic/
+  130  ls
+  131  cd
+  132  ls
+  133  cd public/
+  134  ls
+  135  cp RealEstate.csv home/rsutradhar1/Lab2_P2/pubic
+  136  ls
+  137  cd
+  138  ls
+  139  cd Lab2_P2/
+  140  ls
+  141  cd pubic/
+  142  pwd
+  143  cd
+  144  rm /home/rsutradhar1/Lab2_P2/pubic
+  145  rmdir /home/rsutradhar1/Lab2_P2/pubic
+  146  rmdir /home/rsutradhar1/Lab2_P2/Pubic
+  147  ls
+  148  cd Lab2_P2/
+  149  ls
+  150  mkdir Public
+  151  mkdir public
+  152  ls
+  153  cd Publ
+  154  cd Public/
+  155  cd
+  156  ls
+  157  cd public/
+  158  ls
+  159  rename RealEstate.csv myRealEstate.csv
+  160  rn RealEstate.csv myRealEstate.csv
+  161  move RealEstate.csv myRealEstate.csv
+  162  ls
+  163  cp RealEstate.csv home/rsutradhar1/Lab2_P2/public
+  164  cp RealEstate.csv home/rsutradhar1/Lab2_P2/Public
+  165  cp RealEstate.csv home/rsutradhar1/Lab2_P2/Public/
+  166  cp RealEstate.csv home/rsutradhar1/Lab2_P2/public/
+  167  cd
+  168  ls
+  169  cd Lab2_P2/
+  170  ls
+  171  cd Pub
+  172  cd Public/
+  173  ls
+  174  pwd
+  175  cp RealEstate.csv /home/rsutradhar1/Lab2_P2/Public
+  176  cp home/rsutradhar1/public/RealEstate.csv /home/rsutradhar1/Lab2_P2/Public
+  177  ls home/rsutradhar1/public
+  178  cd
+  179  ls
+  180  cd public/
+  181  pwd
+  182  ls /home/rsutradhar1/public
+  183  cd home
+  184  cd/home
+  185  cd /home/
+  186  cd ~
+  187  ls
+  188  mkdir Regular
+  189  mkdir Submission
+  190  mkdir Submission/Lab2
+  191  mkdir Submission/Lab3
+  192  mv Regular/ Others
+  193  mv home/rsutradhar1/pubic/RealEstate.csv home/rsutradhar1/pubic/myRealEstate.csv
+  194  cp /home/rsutradhar1/Lab2_P2 Submission/Lab2
+  195  cd
+  196  ;s
+  197  ls
+  198  rm Others
+  199  rmdir Others/
+  200  rm Submission/
+  201  ls
+  202  rmdir Submission/
+  203  cd Submission/
+  204  rmdir Lab2
+  205  rmdir Lab3
+  206  ls
+  207  cd
+  208  rmdir Submission/
+  209  ls
+  210  cd public/
+  211  ls
+  212  mkdir Others
+  213  mkdir Submission
+  214  mkdir Submission/Lab2
+  215  mkdir Submission/Lab3
+  216  cd
+  217  ls
+  218  cp Lab2_P2/ public/Submission/Lab2
+  219  ls
+  220  cd public/
+  221  ls
+  222  cd Submission/
+  223  ls
+  224  cd Lab2/
+  225  ls
+  226  cd
+  227  ls
+  228  cd public/
+  229  ls
+  230  Xcopy
+  231  cp
+  232  cp --help
+  233  cp -a Lab2_P2/ public/Submission/Lab2
+  234  cp -a home/rsutradhar1/Lab2_P2/ public/Submission/Lab2
+  235  cd home/rsutradhar1/Lab2_P2/
+  236  ls
+  237  cd
+  238  ls
+  239  cp -a Lab2_P2/ public/Submission/Lab2
+  240  ls
+  241  cd public/
+  242  ls
+  243  cs Submission/
+  244  ls
+  245  cd Submission/
+  246  ls
+  247  cd Lab2
+  248  ls
+  249  rmdir home/rsutradhar1/Lab2_P2
+  250  rmdir /home/rsutradhar1/Lab2_P2/
+  251  cd
+  252  ls
+  253  cd Lab2_P2/
+  254  ls
+  255  rmdir public/
+  256  rmdir Public/
